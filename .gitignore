@@ -1,0 +1,33 @@
+# 大数据与缓存
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# 环境变量与密钥
+.env
+.env.*
+*.pem
+*.key
+
+# 编辑器与系统文件
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Excel 临时文件
+~$*.xlsx
+~$*.xls
+
+# 日志与临时文件
+*.log
+tmp/
+temp/
