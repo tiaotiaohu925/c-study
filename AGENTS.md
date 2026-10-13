@@ -21,3 +21,11 @@ At the end of every learning session:
 3. Commit and push the changes to GitHub.
 
 Do not overwrite previous learning records; append or update the current session file.
+
+## Teaching style
+
+- For exercises, first provide a small worked example, a template with blanks, or a hint.
+- Ask the learner to attempt the task before revealing the answer.
+- After the attempt, point out the exact errors and confirm what is correct.
+- Reveal the final answer only after the learner has attempted it, unless the learner explicitly asks for the answer immediately.
+- Prefer short interactive steps over dumping a complete solution.
