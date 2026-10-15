@@ -36,3 +36,4 @@ Do not overwrite previous learning records; append or update the current session
 - After the attempt, point out the exact errors and confirm what is correct.
 - Reveal the final answer only after the learner has attempted it, unless the learner explicitly asks for the answer immediately.
 - Prefer short interactive steps over dumping a complete solution.
+- When assigning an exercise, include the relevant table(s), column names, and sample data inline so the learner does not have to search for them.
