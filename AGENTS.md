@@ -37,3 +37,11 @@ Do not overwrite previous learning records; append or update the current session
 - Reveal the final answer only after the learner has attempted it, unless the learner explicitly asks for the answer immediately.
 - Prefer short interactive steps over dumping a complete solution.
 - When assigning an exercise, include the relevant table(s), column names, and sample data inline so the learner does not have to search for them.
+
+## Progress measurement
+
+- Primary metrics: task completion, independent accuracy, and evidence of mastery.
+- Time spent is a planning reference, not a proxy for learning.
+- Finishing a daily task early does not automatically mean less learning.
+- Completing a daily task does not automatically prove mastery; verify with independent work.
+- If accuracy is unstable, add repetition even when the task list is complete.
