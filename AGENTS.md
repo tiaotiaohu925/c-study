@@ -45,3 +45,5 @@ Do not overwrite previous learning records; append or update the current session
 - Finishing a daily task early does not automatically mean less learning.
 - Completing a daily task does not automatically prove mastery; verify with independent work.
 - If accuracy is unstable, add repetition even when the task list is complete.
+- For Python exercises, first explain the relevant concept and syntax and show one small worked example using different data; then ask the learner to write the exercise. Do not jump directly from a blank starter file to the exercise.
+- For any unfamiliar topic, spend a short block on concept and syntax before assigning practice.
