@@ -1,0 +1,35 @@
+﻿行标签,求和项:Revenue,,行标签,求和项:Revenue,,Quantity,(多项)
+Australia,1935.14,,<2010/12/1,,,,
+Austria,172.48,,1月,12673.34,,行标签,求和项:Revenue
+Belgium,592.25,,2月,8894.3,,Australia,1849.22
+Canada,47.4,,3月,13991.41,,Austria,152.16
+Channel Islands,175.75,,4月,9873.21,,Belgium,271.4
+Cyprus,377.73,,5月,14755.29,,Channel Islands,50.58
+Czech Republic,30,,6月,12512.82,,Cyprus,243.4
+Denmark,474.84,,7月,14737.13,,Czech Republic,30
+EIRE,5580.29,,8月,14730.86,,Denmark,457.14
+Finland,803.32,,9月,17470.46,,EIRE,4053.24
+France,3786.61,,10月,20624.66,,Finland,697.32
+Germany,4321.53,,11月,27164.69,,France,2703.39
+Greece,32.85,,12月,21961.22,,Germany,2279.04
+Hong Kong,291.6,,总计,189389.39,,Greece,15
+Iceland,108.4,,,,,Hong Kong,258.6
+Israel,94.34,,,,,Iceland,91.8
+Italy,203.94,,,,,Israel,9.96
+Japan,207.45,,,,,Italy,94.44
+Malta,101.4,,,,,Japan,205.8
+Netherlands,5861.77,,,,,Malta,15
+Norway,502.96,,,,,Netherlands,5682.82
+Poland,310,,,,,Norway,249.52
+Portugal,665.48,,,,,Poland,111.6
+Singapore,285.92,,,,,Portugal,263.04
+Spain,1052.21,,,,,Singapore,285.92
+Sweden,591.61,,,,,Spain,554
+Switzerland,894.91,,,,,Sweden,515.16
+United Arab Emirates,34.8,,,,,Switzerland,502.12
+United Kingdom,159604.36,,,,,United Arab Emirates,34.8
+Unspecified,118,,,,,United Kingdom,88211.13
+USA,130.05,,,,,Unspecified,40.5
+(空白),,,,,,USA,60
+总计,189389.39,,,,,(空白),
+,,,,,,总计,109988.1
