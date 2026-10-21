@@ -4,7 +4,7 @@
 > 起始时间：2026-10-12  
 > 目标时间：2027-10-10  
 > 主方向：业务数据分析 / 商业分析 / BI 分析  
-> GitHub：https://github.com/tiaotiaohu925/c-study
+> GitHub：https://github.com/tiaotiaohu925/study
 
 ## 仓库用途
 
@@ -20,7 +20,7 @@
 ## 目录结构
 
 ```text
-c-study/
+study/
 ├── README.md
 ├── 上海数据分析师52周计划.md
 ├── 素材库/
@@ -87,4 +87,5 @@ c-study/
 - 不提交账号密码、密钥、个人隐私数据或未获授权的企业数据。
 - 大型原始数据不直接进入仓库，放入 `data/raw/`，并按目录说明处理。
 - 项目完成后在 `projects/` 下保留 README、SQL、Notebook、图表和业务报告。
+
 
